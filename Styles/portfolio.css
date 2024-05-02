@@ -125,3 +125,12 @@ main{
 .about-info{
     text-align: center;
 }
+.info-title{
+    font-weight:bold ;
+}
+.info-description{
+    color: rgb(71, 71, 71);
+}
+#what-i-do-description{
+    padding: 30px 150px;
+}
