@@ -161,19 +161,22 @@ main section {
 }
 
 /* resume section */
-.resume-container{
+.resume-container {
     display: flex;
     gap: 50px;
 }
-.resume-colum{
+
+.resume-colum {
     text-align: left;
 }
+
 .resume-colum-title {
     color: rgb(71, 71, 71);
     font-size: 30px;
     font-weight: 700;
     margin-bottom: 30px;
 }
+
 /* .resume-item {
 
 } */
@@ -189,7 +192,7 @@ main section {
     color: rgb(117, 117, 117);
     font-size: 20px;
     font-weight: 600;
-    margin-bottom:20px;
+    margin-bottom: 20px;
     margin-top: 0px;
 }
 
@@ -199,10 +202,28 @@ main section {
     font-weight: 400;
     margin-top: 0px;
 }
-.resume-container hr{
+
+.resume-container hr {
     margin: 30px 0px;
 }
-.download-cv{
+
+.download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer {
+    background: rgb(255, 248, 243);
+    display: flex;
+}
+
+.footer-colum-title {
+    position: absolute;
+    width: 227px;
+    height: 48px;
+    left: 230px;
+    right: 1143px;
+    top: 3606px;
+    bottom: 602px;
 }
